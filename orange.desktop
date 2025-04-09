@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Orange
+Comment=Data mining and machine learning toolbox
+Exec=/usr/local/bin/abrirorange.sh
+Icon=/opt/orange.jpg
+Terminal=false
+Type=Application
+Categories=Science;Education;
